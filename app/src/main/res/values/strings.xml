@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeritaApp</string>
+    <string name="BASE_URL">https://the-lazy-media-api.vercel.app/api/</string>
+</resources>
